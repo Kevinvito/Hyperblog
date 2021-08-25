@@ -1,2 +1,2 @@
 # Hyperblog
-mi primer blog para el curso de Git y Github de platzi
+este es un blog hermoso y bello para el curso de git y github de platzi
